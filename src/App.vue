@@ -29,4 +29,8 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+h4 {
+	color: hotpink;
+}
 </style>
